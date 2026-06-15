@@ -13,18 +13,22 @@ An entry-level **SOC Analyst** with a strong foundation in IT infrastructure and
 - **🧠 Continuous Learning:** Actively sharpening my practical security monitoring, alert triaging, and incident response skills via **MyDFIR** and **TryHackMe**.
 
 ### 📜 Certifications & Credentials
-
-- **CompTIA Security+**
-- **ISC² Certified in Cybersecurity (CC)**
-- **Google Cybersecurity Professional Certificate**
+<div style="display: flex; gap: 10px; margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/CompTIA_Security_+-FF6600?style=for-the-badge&logo=comptia&logoColor=white" alt="Security+" />
+  <img src="https://img.shields.io/badge/ISC²_CC-008000?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 CC" />
+  <img src="https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cyber" />
+</div>
 
 ### 🛠️ Technical Toolkit
 
-- **SIEM / Logging:** Splunk
-- **IDS/NSM Tools:** Suricata, Zeek
-- **Operating Systems:** Linux (Ubuntu), Windows Server
-- **Infrastructure & Virtualization:** VMware Workstation Pro, Enterprise IT Infrastructure
-- **Core Skills:** Incident Triage, Endpoint Security, User Access Management (IAM)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=FF4B00" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Suricata-EF4136?style=flat-square&logo=suricata&logoColor=white" alt="Suricata" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Ubuntu_Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware" />
+</div>
 
 ---
 
